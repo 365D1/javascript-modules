@@ -1,0 +1,7 @@
+{
+  "name": "browser-commonjs",
+  "version": "1.0.0",
+  "devDependencies": {
+    "uniq": "^1.0.1"
+  }
+}
